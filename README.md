@@ -1,5 +1,5 @@
 # MusicaSinLimites
-Proyecto realizado para la materia de Aplicaciones Distribuidas de la Escuela Politécnica Nacional.
+Proyecto realizado para la materia de Aplicaciones Distribuidas de la Escuela Politécnica Nacional basado en C# de Visual Studio.
 
 Realizado por: 
   - Ibeth Bastidas
